@@ -15,9 +15,9 @@ This is a skill-testing platform only. There are no monetary or material rewards
 ---
 
 ## :link: **How to Participate**
-1. Start your journey by visiting one of the following challenge links:  
-   - (https://seuritych.github.io)  
-   - (https://security-awards.kro.kr)
+1. Start your journey by visiting the following challenge link: 
+   - https://seuritych.github.io
+   (security-awards.kro.kr)
 
 2. Solve problems, submit your solutions, and track your progress in real-time.
 
