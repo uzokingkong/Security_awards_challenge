@@ -2,15 +2,15 @@
 
 ![Security Awards Banner](https://github.com/user-attachments/assets/e9419e04-bf6c-4917-b384-2fbe23c40539)
 
-:boom: **Welcome to the Security Awards Challenge! Prove your skills by solving tough problems and showcase your expertise!**
+:boom: **Welcome to the Security Awards Challenge! Showcase your skills, solve challenging problems, and sharpen your expertise!**
 
 ---
 
 ## :trophy: **About the Challenge**
-Are you ready to test your skills in a competitive environment? The Security Awards Challenge is designed to challenge and reward the most skilled problem-solvers in the field of security.
+The Security Awards Challenge is a **test platform** where participants can practice and prove their abilities in solving advanced security challenges.  
 
-:star: **Participate and win exciting rewards!**  
-From beginner to advanced levels, there’s something for everyone. Climb the leaderboard and become a security legend!
+:warning: **Note**:  
+This is a skill-testing platform only. There are no monetary or material rewards provided. It’s all about honing your skills and earning recognition!
 
 ---
 
@@ -21,7 +21,7 @@ From beginner to advanced levels, there’s something for everyone. Climb the le
 
 2. Solve problems, submit your solutions, and track your progress in real-time.
 
-3. Stand a chance to win exclusive awards and recognition.
+3. Join the community of security enthusiasts and build your expertise.
 
 ---
 
@@ -33,8 +33,13 @@ We’re here to help you every step of the way. Don't hesitate to connect with u
 
 ---
 
-## :star2: **Good Luck!**
-Dive in, show your expertise, and let’s see who takes home the **Security Awards Trophy** this year!
+## :star2: **Why Participate?**
+This is your opportunity to:
+- Sharpen your problem-solving skills.
+- Compete with like-minded individuals.
+- Gain recognition for your expertise.
+
+:rocket: Ready to test your mettle? Let’s see who can conquer the **Security Awards Challenge**!
 
 ---
 
