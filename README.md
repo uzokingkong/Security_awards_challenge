@@ -6,9 +6,6 @@ We would be grateful if many people would participate and spread the word.
 
 Your feedback and participation means a lot to us, and we look forward to seeing how you approach this challenge.
 
-🔗 Please check out and share the challenge on GitHub!
-
-
 ![Security Awards Banner](https://github.com/user-attachments/assets/e9419e04-bf6c-4917-b384-2fbe23c40539)
 
 :boom: **Welcome to the Security Awards Challenge! Showcase your skills, solve challenging problems, and sharpen your expertise!**
