@@ -1,5 +1,14 @@
 # :lock: Security Awards Challenge :key:
 
+I'm excited to announce that I've created my first challenge: the Security Awards Challenge! 🚀
+
+We would be grateful if many people would participate and spread the word.
+
+Your feedback and participation means a lot to us, and we look forward to seeing how you approach this challenge.
+
+🔗 Please check out and share the challenge on GitHub!
+
+
 ![Security Awards Banner](https://github.com/user-attachments/assets/e9419e04-bf6c-4917-b384-2fbe23c40539)
 
 :boom: **Welcome to the Security Awards Challenge! Showcase your skills, solve challenging problems, and sharpen your expertise!**
@@ -43,4 +52,5 @@ This is your opportunity to:
 
 ---
 
+git link : https://github.com/uzokingkong/Security_awards_challenge)
 ![Challenge Success](https://github.com/user-attachments/assets/e9419e04-bf6c-4917-b384-2fbe23c40539)
