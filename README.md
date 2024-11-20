@@ -1,5 +1,8 @@
 # Security_awards_challenge
 
+![image](https://github.com/user-attachments/assets/e9419e04-bf6c-4917-b384-2fbe23c40539)
+
+
 
 # :lock: Security Awards Challenge :key:
 
