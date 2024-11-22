@@ -51,3 +51,5 @@ This is your opportunity to:
 
 git link : https://github.com/uzokingkong/Security_awards_challenge)
 ![Challenge Success](https://github.com/user-attachments/assets/e9419e04-bf6c-4917-b384-2fbe23c40539)
+
+reddit link : https://www.reddit.com/r/securityCTF/comments/1gvo6zn/security_awards_challenge/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
